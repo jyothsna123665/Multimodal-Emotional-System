@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+tensorflow
+keras
+torch
+transformers
+librosa
+sounddevice
+nltk
+streamlit
+pygame
+jsonschema
